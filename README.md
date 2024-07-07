@@ -41,7 +41,7 @@ query {
 
 ```
 
-Belirli bir personeli ID ile getir:
+- Belirli bir personeli ID ile getir:
 ```bash
 query {
     personel(id: "1") {
@@ -56,7 +56,7 @@ query {
 ```
 
 Mutasyonlar
-Yeni personel ekle:
+- Yeni personel ekle:
 ```bash
 mutation {
     personelEkle(isim: "Mehmet", email: "mehmet@example.com", yas: 35) {
@@ -70,7 +70,7 @@ mutation {
 
 
 ```
-Belirli bir personeli sil:
+- Belirli bir personeli sil:
 ```bash
 mutation {
     personelSil(id: "2") {
@@ -84,7 +84,7 @@ mutation {
 
 
 ```
-Belirli bir personeli güncelle:
+- Belirli bir personeli güncelle:
 ```bash
 mutation {
     personelGuncelle(id: "3", isim: "Esra Güncel", email: "esra@example.com", yas: 26) {
