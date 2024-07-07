@@ -1,0 +1,29 @@
+{
+  "name": "graphql-basic",
+  "version": "1.0.0",
+  "description": "Basic graphql",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch data.json",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "oğuz kaan ekin",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.9.0",
+    "json-server": "^1.0.0-beta.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekroket/basic-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mekroket/basic-graphql/issues"
+  },
+  "homepage": "https://github.com/mekroket/basic-graphql#readme"
+}

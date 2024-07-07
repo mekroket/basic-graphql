@@ -1,0 +1,22 @@
+{
+  "personeller": [
+    {
+      "id": "2",
+      "isim": "oguz",
+      "yas": 43,
+      "email": "sdd@gm.com"
+    },
+    {
+      "id": "3",
+      "isim": "veg",
+      "yas": 23,
+      "email": "veg@gm.com"
+    },
+    {
+      "id": "eac8",
+      "isim": "oguz",
+      "email": "goz@hgmfç",
+      "yas": 4
+    }
+  ]
+}
