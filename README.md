@@ -102,5 +102,5 @@ mutation {
 ## Katkıda Bulunma
 Bu projeyi çatallayın (fork) ve yerel makinenize klonlayın.
 Yeni özellikler ekleyin veya hataları düzeltin.
-Değişikliklerinizi yüklemek için bir pull isteği (pull request) gönderin
+Değişikliklerinizi yüklemek için bir pull isteği (pull request) gönderin.
 
